@@ -1,0 +1,238 @@
+		#blurTest{
+		backdrop-filter: blur(5px);
+		}
+		
+		#edno1{
+		background-color:orangered;
+		height:fixed;
+		}
+		
+		#blur{
+		background-image:url('header1.jpg');
+		background-size:cover;
+		}
+		
+		#txtA{
+		text-align:top;
+		font-size:20px;
+		color:black;
+		font-weight:bold;
+		
+		}
+		
+		#imgUSA2inf{
+			height:300px;
+			width:200px;
+			margin:top;
+		}
+		#imgTunnel2inf{
+			height:300px;
+			width:500px;
+			margin:top;
+		}
+		
+		#imgUSAinf{
+			height:300px;
+			width:600px;
+			margin:top;
+		}
+		
+		#liINF{
+		display: inline-block;
+		text-decoration: none;
+		}
+		
+		#nav{
+		background-color:orangered;
+		border:2px solid orangered;
+		}
+		
+		#tdB{
+		border-right:2px solid orangered;
+		}
+		
+		#imgUSA
+		{
+		height:75px;
+		width:150px;
+		
+		}
+		
+		#liUSA{
+		display: inline-block;
+		text-decoration: none;
+		font-size: 18px;
+		height:fixed;
+		width:150;
+		color:black;
+		margin:left;
+		background-color:white;
+		border-left:5px solid white;
+		border-bottom:1px solid white;
+	
+		}
+		
+		#liUSA:hover{
+		display: inline-block;
+		text-decoration: none;
+		font-size: 18px;
+		height:fixed;
+		width:150;
+		color:white;
+		margin:left;
+		background-color:black;
+		border-left:2px solid orangered;
+		}
+		
+		#edno{
+		background-color:orangered;
+		background-size:cover;
+		padding-bottom:100px;
+		padding-top:50px;
+		height:fixed;
+		}
+		
+		#madeby{
+		text-align:right;
+		color:orangered;
+		}
+		#sources{
+		color:white;
+		}
+		
+		#a{
+		color:orangered;
+		}
+		#pic{
+		background-image:url('header1.jpg');
+		background-size:cover;
+		}
+		
+		#end2{
+		background-color:#343436;
+		background-size:cover;
+		padding-bottom:100px;
+		padding-top:50px;
+		height:fixed;
+		}
+		#end{
+		background-color:black;
+		background-size:cover;
+		height:30px;
+		border-top:2px solid white;
+		
+		}
+		
+		#td1{
+		border-right:5px solid white;
+		}
+		#table{
+		border-bottom:2px solid white;
+		}
+		
+		#LiW2{
+		display: inline-block;
+		text-decoration: none;
+		font-size: 18px;
+		width:200px;
+		color:orangered;
+		}
+		#LiW
+		{
+		display: inline-block;
+		text-decoration: none;
+		background-color:white;
+		}
+		#LiW:hover
+		{
+			background-color:black;
+			color:white;
+			height:210px;
+		}
+		#image
+		{
+		height:150px;
+		width:300px;
+		
+		}
+		
+		#Second{
+		background-image:url('header.png');
+		background-size:cover;
+		height:250px;
+		}
+		
+		#Third{
+		background-color:orangered;
+		background-size:cover;
+		padding-bottom:100px;
+		padding-top:50px;
+		height:200px;
+		}
+		
+		#Fifth{
+		background-color:transparent;
+		width:100%;
+		padding-bottom:100px;
+		padding-top:50px;
+		height:fixed;
+		color:white;
+		}
+		
+		img{
+		width:1350px;
+		height:150px;
+		}
+		
+		
+		h2{
+		font-size:15px;
+		width:600px;
+		color:white;
+		}
+		
+		h3{
+		font-size:30px;
+		color:white;
+		}
+		
+		h4{
+		color:white;
+		width:650px;
+		}
+		
+		#div1{
+		font-size:40px;
+		padding-bottom:80px;
+		color:black;
+		text-shadow:2px 2px white;
+		}
+		
+		h6{
+		border:2px solid white;
+		width:200px;
+		height:30px;
+		background-color:white;
+		border-radius:100px;
+		font-size:20px;
+		}
+		
+		#Liniq1{
+		width:30px;
+		height:5px;
+		background-color:orangered;
+		}
+		
+		#Liniq2{
+		width:30px;
+		height:5px;
+		background-color:white;
+		}
+		
+		#Liniq3{
+		width:30px;
+		height:5px;
+		background-color:orangered;
+		padding-bottom:;
+		}
+		
